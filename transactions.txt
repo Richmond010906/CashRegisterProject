@@ -1,0 +1,22 @@
+=== TRANSACTION LOG ===
+Date & Time: 2025-06-06 07:10:11
+Cashier: Richmond
+Items Purchased:
+  - Oreo (Extra-Large) | Qty: 2 | Price: P119.00 | Subtotal: P238.00
+  - Red Velvet (Small) | Qty: 4 | Price: P79.00 | Subtotal: P316.00
+Total Amount: P554.00
+Payment Received: P1000.00
+Change Given: P446.00
+========================
+
+=== TRANSACTION LOG ===
+Date & Time: 2025-06-06 07:11:30
+Cashier: Ashley
+Items Purchased:
+  - Wintermelon (Large) | Qty: 2 | Price: P99.00 | Subtotal: P198.00
+  - Chocolate (Extra-Large) | Qty: 1 | Price: P119.00 | Subtotal: P119.00
+Total Amount: P317.00
+Payment Received: P400.00
+Change Given: P83.00
+========================
+
